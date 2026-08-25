@@ -9,10 +9,10 @@ Canvas: https://utexas.instructure.com/courses/1456620
 
 Class will meet Tuesday and Thursday **3:30pm - 5:00pm CT**.  
 
-TA sessions are optional and will meet Fridays **TBD**. 
+TA sessions are optional and will meet Fridays **9:00am - 10:00am**. 
 
 Class will be held in person in **BRB 1.118**.  
-TA sessions will be held in person in **TBD**.  
+TA sessions will be held in person in **BRB 1.118**.  
 
 ## Instructor: Edward Krueger
 
