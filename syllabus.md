@@ -1,8 +1,9 @@
 # ECO 395m: Python, Databases, and Big Data
 
-Unique Numbers: 36415, 36420
+Unique Numbers: 37260
 
-Course website: https://github.com/edkrueger/eco395m
+Course website: https://github.com/edkrueger/eco395m  
+Canvas: https://utexas.instructure.com/courses/1456620  
 
 ## Class:
 
@@ -11,21 +12,20 @@ Class will meet Tuesday and Thursday **3:30pm - 5:00pm CT**.
 TA sessions are optional and will meet Fridays **TBD**. 
 
 Class will be held in person in **BRB 1.118**.  
-TA sessions will be held in person in **BRB 1.118**.  
-
-Recordings of lectures will be posted for a limited time on Canvas through Lectures Online.  
+TA sessions will be held in person in **TBD**.  
 
 ## Instructor: Edward Krueger
 
 * Email: edwardkrueger@utexas.edu
-* Office Hours: Tuesdays and Thursdays 5:00pm - 5:45pm CT
-* Office Hours Location: **BRB 1.118** (unless otherwise indicated)
+* Office Hours: Tuesdays and Thursdays 2:30pm - 3:15pm CT
+* Office Hours Location: **BRB 2.120** (unless otherwise indicated)
 
-## Teaching Assistant: Shreeyesh Menon
+## Teaching Assistant: Kelson Sadlier
 
-* Email: shreeyesh.menon@utexas.edu
+* Email: kgs2268@my.utexas.edu
 * TA In Person Office Hours: TBD
 * TA Office Hours Location: TBD
+
 
 ---
 
@@ -82,7 +82,7 @@ We will start from the beginning with Python. However, some slight exposure to p
 Lectures will be fast-paced, and you must pay attention in class. It can be tempting to replicate every step I take and write the same code I write _while in the lecture_. I don't recommend this as you'll likely fall behind and miss out on new material. So it may be wise to consider not opening your computer at all during class.
 
 ### Outside of Class
-If you'd like to go back and try to replicate the work I do in class, you will have a recording of the lectures. Your homework and group projects will provide you with an opportunity to do it yourself.
+If you'd like to go back and try to replicate the work I do in class, you should do it after class. Your homework and group projects will provide you with an opportunity to do it yourself.
 
 After getting the big picture from lectures, the best way to learn to program is to do it. Attending lectures and completing the readings won't be sufficient. In fact, you should consider attempting the homeworks first and consulting the readings if you need assistance.
 
@@ -143,7 +143,7 @@ The use of generative artificial intelligence tools (or Large Language Models [L
 
 You may use AI to research *how* to do things (write code, install software, etc.).  
 
-You may not ask AI to *generate* code for assignments or projects.
+You may not ask AI to *generate* code for assignments or projects (unless I specify otherwise in the assignment).
 
 For example, its acceptable to to ask:
 
@@ -155,7 +155,7 @@ It is not acceptable to prompt:
 * Here is some HTML, write code using beautifulsoup to extract all the url of all of the links.
 * Here is my code "{code here}", when I run it it get the error "{error here}", fix my code.
 
-You may not use AI-based code completion.
+You may not use AI-based code completion (unless I specify otherwise in the assignment).
 
 You can use AI to brainstorm ideas for your projects, but you may not use it to generate a project scope for you.
 
@@ -184,13 +184,15 @@ For group projects, the Honor Code means that the work you represent as your con
 _Git and GitHub will allow us to see your individual contributions to group projects._
 
 ## Sharing of Course Materials is Prohibited
-No materials used in this class, including, but not limited to, lecture hand-outs, assessments (homework assignments), in-class materials, and review sheets, may be shared online or with anyone outside of the class - or in future classes - unless you have my explicit, written permission. Unauthorized sharing of materials promotes cheating. It is a violation of the University’s Student Honor Code and an act of academic dishonesty. I am well aware of the sites used for sharing materials, and any materials found online that are associated with you, or any suspected unauthorized sharing of materials, will be reported to Student Conduct and Academic Integrity in the Office of the Dean of Students. These reports can result in sanctions, including failure in the course.
+No materials used in this class, including, but not limited to, lecture hand-outs, videos, assessments (quizzes, exams, papers, projects, homework assignments), in-class materials, review sheets and additional problem sets, may be shared online or with anyone outside of the class without my explicit, written permission. Unauthorized sharing of materials may facilitate cheating. The University is aware of the sites used for sharing materials, and any materials found online that are associated with you, or any suspected unauthorized sharing of materials, will be reported to Student Conduct and Academic Integrity in the Office of the Dean of Students. These reports can result in initiation of the student conduct process and include charge(s) for academic misconduct, potentially resulting in sanctions, including a grade impact.
 
-## Class Recordings:
-Class recordings are reserved only for students in this class for educational purposes and are protected under FERPA. The recordings should not be shared outside the class in any form. Violation of this restriction by a student could lead to Student Misconduct proceedings.
+## Class Recordings
+HOP 2-9970 prohibits students from recording class instruction (audio or video) unless a student obtains the instructor’s permission or Disability & Access has approved audio recording as an accommodation.
 
 ## ADA Notice
-If you are a student with a disability, or think you may have a disability, and need accommodations please contact Disability and Access (D&A). You may refer to D&A’s website for contact and more information: http://disability.utexas.edu/. If you are already registered with D&A, please deliver your accommodation letter to me as early as possible in the semester so we can discuss your approved accommodations.
+If you are a student with a disability, or think you may have a disability, and need accommodations, please contact Disability and Access (D&A). Contact and more details are available on D&A’s website: http://disability.utexas.edu.
+
+If you are already registered with D&A, please share your accommodation letter with me as early as possible in the semester so we can discuss how your approved accommodations will be implemented in this course.
 
 ## Harassment Reporting Requirements
 Under Texas Senate Bill 212 (SB 212), the professor and TAs for this course are required to report for further investigation any information concerning incidents of sexual harassment, sexual assault, dating violence, and stalking committed by or against a UT student or employee. Federal law and university policy also requires reporting incidents of sex‐ and gender‐based discrimination and sexual misconduct (collectively known as Title IX incidents). This means we cannot keep confidential information about any such incidents that you share with us. If you need to talk with someone who can maintain confidentiality, please contact University Health Services at https://healthyhorns.utexas.edu/ or the UT Counseling and Mental Health Center at https://cmhc.utexas.edu/. You can also make an appointment with a confidential advocate by emailing advocate@austin.utexas.edu or calling (512) 232-2860. We strongly urge you to make use of these services for any needed support and to report any Title IX incidents to the Title IX Office.
@@ -209,16 +211,17 @@ _This is far less reading than it appears to be. These books are far less dense 
 
 ## Topic 1 Bash and Git
 Suggested Readings:
-Topjian: 2, 3, 4, 6 -- _not_ 3 Advanced, 4 Advanced, 6 Advanced)
+Topjian: 2, 3, 4, 6 -- _not_ 3 Advanced, 4 Advanced, 6 Advanced
 Dudler: All
 
 ## Topic 2 Python and Pandas
 Suggested Readings:
 Downey: 1, 2, 3, 5 (skip recursion topics), 6 (skip recursion topics), 7, 8, 10, 11, 12, 14, 19 (skip Named Tuples), 20
 Harrison: 3-11, 14, 16-28, 32, 33 (except "SQL" section)
+
 ## Midterm Project
-Project Work Week -- _Thursday, Oct 9th_ and _Tuesday, Oct 14th_ will be used for in class project work.  
-Midterm Project Presentations will be on _Thursday, Oct 16, 3:30pm-5:00pm_.
+Project Work Week -- _Thursday, Oct 8th_ and _Tuesday, Oct 13th_ will be used for in class project work.  
+Midterm Project Presentations will be on _Thursday, Oct 15, 3:30pm-5:00pm_.
 
 ## Topic 3 SQL and Python with SQL
 Suggested Readings:
@@ -226,8 +229,12 @@ DeBarros (1st Edition): 1, 2, 3, 5, 6, 7, 8, 9
 DeBarros (2nd Edition): 2, 3, 4, 6, 7, 8, 9, 10, 16  
 Harrison: 33 ("SQL" section)
 
+## Coding with AI (Time Permitting)
+## Making APIs with FastAPI (Time Permitting)
+## Deploying an API with GCP (Time Permitting)
+
 ## Final Project
 
-Project Work Days -- _Thursday, November 20th_, _Tuesday, December 2nd_, and _Thursday, December 4th_ will be used for in-class project work.
+Project Work Days -- _Thursday, November 19th_, _Tuesday, December 1st_, and _Thursday, December 3rd_ will be used for in-class project work.
 
-Final Project Presentations will be on _Saturday, December 13, 8:00 am-10:00 am_.
+Final Project Presentations will be on _Saturday, December 12, 1:00 pm-3:00 pm_.
