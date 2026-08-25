@@ -23,7 +23,7 @@ TA sessions will be held in person in **BRB 1.118**.
 ## Teaching Assistant: Kelson Sadlier
 
 * Email: kgs2268@my.utexas.edu
-* TA In Person Office Hours: 12:30pm-1:15pm CT
+* TA In Person Office Hours: Monday 12:30pm-1:15pm CT
 * TA Office Hours Location: **BRB 4.126**
 
 ---
